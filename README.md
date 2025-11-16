@@ -5,8 +5,5 @@ Hi, my name is Andrew, a ukrainian frontend developer looking for new possibilit
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Beside the programming language, I fluently speak 3 languages such as English,Ukrainian and russian
 
-We can keep in touch in: 
-https://t.me/andrr100
-www.linkedin.com/in/andriiremizovski
 
 
